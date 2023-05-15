@@ -1,0 +1,26 @@
+.display-slide-heading {
+  font-size: 40px;
+  font-family: Bree Serif;
+  color: #0967d2;
+}
+
+.display-slide-para {
+  font-size: 20px;
+  font-family: Bree Serif;
+  color: #0f172a;
+}
+.input-bar-heading {
+  padding: 10px;
+  caret-color: #0f172a;
+  font-family: Bree Serif;
+  font-size: 20px;
+  background-color: #dbeafe;
+  color: #0967d2;
+  border-width: 0px;
+  margin: 20px;
+  border-radius: 5px;
+  outline-width: 0px;
+}
+.input-bar-des {
+  color: #0f172a;
+}
